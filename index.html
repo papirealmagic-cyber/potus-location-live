@@ -4,8 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body, html, #map { height: 100%; margin: 0; padding: 0; width: 100%; }
-        /* The container for our sticker */
-        .map-overlay {
+        #marker-overlay {
             position: absolute;
             width: 150px;
             height: 150px;
@@ -16,6 +15,9 @@
 </head>
 <body>
     <div id="map"></div>
+    <div id="marker-overlay">
+        <img src="https://i.ibb.co/L8yH1gX/seal.gif" width="150" height="150" />
+    </div>
     <script>
         function initMap() {
             var whiteHouse = {lat: 38.8977, lng: -77.0365};
@@ -25,40 +27,18 @@
                 mapTypeId: 'roadmap'
             });
 
-            // Create a custom overlay for the image
-            class GIFOverlay extends google.maps.OverlayView {
-                constructor(latlng, url) {
-                    super();
-                    this.latlng = latlng;
-                    this.url = url;
-                }
-                onAdd() {
-                    this.div = document.createElement('div');
-                    this.div.className = 'map-overlay';
-                    const img = document.createElement('img');
-                    img.src = this.url;
-                    img.style.width = '150px';
-                    img.style.height = '150px';
-                    this.div.appendChild(img);
-                    this.getPanes().overlayImage.appendChild(this.div);
-                }
-                draw() {
-                    const projection = this.getProjection();
-                    const point = projection.fromLatLngToDivPixel(this.latlng);
-                    if (this.div) {
-                        this.div.style.left = (point.x - 75) + 'px';
-                        this.div.style.top = (point.y - 75) + 'px';
-                    }
-                }
-                onRemove() {
-                    if (this.div) {
-                        this.div.parentNode.removeChild(this.div);
-                        this.div = null;
-                    }
-                }
-            }
-
-            var overlay = new GIFOverlay(whiteHouse, 'https://i.imgur.com/8QG3t7f.gif');
+            // Use the OverlayView to anchor the overlay to map coordinates
+            var overlay = new google.maps.OverlayView();
+            overlay.onAdd = function() {
+                this.getPanes().overlayImage.appendChild(document.getElementById('marker-overlay'));
+            };
+            overlay.draw = function() {
+                var projection = this.getProjection();
+                var point = projection.fromLatLngToDivPixel(new google.maps.LatLng(38.8977, -77.0365));
+                var div = document.getElementById('marker-overlay');
+                div.style.left = (point.x - 75) + 'px';
+                div.style.top = (point.y - 75) + 'px';
+            };
             overlay.setMap(map);
         }
         window.onload = initMap;
