@@ -4,24 +4,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body, html, #map { height: 100%; margin: 0; padding: 0; width: 100%; }
-        #marker-overlay {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            width: 150px;
-            height: 150px;
-            z-index: 1000;
-            pointer-events: none;
-        }
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZg9pzWoBhlkiArmE0rWtLhFTonsPO1jI"></script>
 </head>
 <body>
     <div id="map"></div>
-    <div id="marker-overlay">
-        <img src="https://raw.githubusercontent.com/openclaw/assets/main/seal.gif" width="150" height="150" />
-    </div>
     <script>
         function initMap() {
             var whiteHouse = {lat: 38.8977, lng: -77.0365};
@@ -29,6 +16,17 @@
                 zoom: 18, 
                 center: whiteHouse,
                 mapTypeId: 'roadmap'
+            });
+
+            // Using the official Marker with a reliable URL to fix the "broken image"
+            new google.maps.Marker({
+                position: whiteHouse,
+                map: map,
+                icon: {
+                    url: 'https://i.imgur.com/8QG3t7f.gif',
+                    scaledSize: new google.maps.Size(150, 150),
+                    anchor: new google.maps.Point(75, 75)
+                }
             });
         }
         window.onload = initMap;
