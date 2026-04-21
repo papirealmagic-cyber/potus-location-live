@@ -6,9 +6,6 @@
         body, html, #map { height: 100%; margin: 0; padding: 0; width: 100%; }
         #marker-overlay {
             position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
             width: 150px;
             height: 150px;
             z-index: 1000;
@@ -20,7 +17,7 @@
 <body>
     <div id="map"></div>
     <div id="marker-overlay">
-        <img src="https://raw.githubusercontent.com/openclaw/assets/main/PotusLive.gif" width="150" height="150" />
+        <img src="https://i.ibb.co/L8yH1gX/PotusLive.gif" width="150" height="150" />
     </div>
     <script>
         function initMap() {
@@ -30,6 +27,19 @@
                 center: whiteHouse,
                 mapTypeId: 'roadmap'
             });
+
+            var overlay = new google.maps.OverlayView();
+            overlay.onAdd = function() {
+                this.getPanes().overlayImage.appendChild(document.getElementById('marker-overlay'));
+            };
+            overlay.draw = function() {
+                var projection = this.getProjection();
+                var pos = projection.fromLatLngToDivPixel(new google.maps.LatLng(38.8977, -77.0365));
+                var div = document.getElementById('marker-overlay');
+                div.style.left = (pos.x - 75) + 'px';
+                div.style.top = (pos.y - 75) + 'px';
+            };
+            overlay.setMap(map);
         }
         window.onload = initMap;
     </script>
