@@ -6,8 +6,8 @@
         body, html, #map { height: 100%; margin: 0; padding: 0; width: 100%; }
         #marker-overlay {
             position: absolute;
-            width: 150px;
-            height: 150px;
+            width: 100px;
+            height: 100px;
             z-index: 1000;
             pointer-events: none;
         }
@@ -17,7 +17,7 @@
 <body>
     <div id="map"></div>
     <div id="marker-overlay">
-        <img src="PotusLid2.gif" width="150" height="150" />
+        <img src="PotusLive2.gif" width="100" height="100" />
     </div>
     <script>
         function initMap() {
@@ -36,8 +36,8 @@
                 var projection = this.getProjection();
                 var pos = projection.fromLatLngToDivPixel(new google.maps.LatLng(38.8977, -77.0365));
                 var div = document.getElementById('marker-overlay');
-                div.style.left = (pos.x - 75) + 'px';
-                div.style.top = (pos.y - 75) + 'px';
+                div.style.left = (pos.x - 50) + 'px';
+                div.style.top = (pos.y - 50) + 'px';
             };
             overlay.setMap(map);
         }
