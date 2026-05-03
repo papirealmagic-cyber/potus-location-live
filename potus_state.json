@@ -1,7 +1,7 @@
 {
   "current_location": "Doral, Florida",
-  "lid_active": false,
-  "gif_state": "PotusLive3.gif",
-  "last_updated": "2026-05-03T18:00:07.179Z",
+  "lid_active": true,
+  "gif_state": "PotusLid2.gif",
+  "last_updated": "2026-05-03T19:00:07.625Z",
   "notes": "Initial state from manual update"
 }

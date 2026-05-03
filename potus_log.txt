@@ -11,3 +11,5 @@
 {"timestamp":"2026-05-03T16:00:12.135Z","action":"lid_set","detected_location":"Trump National Doral, Miami, Florida","lid_detected":true,"confidence":"high","source_post":"POTUS motorcade arrived at the president's Doral club at 7:31. The WH called a lid at 7:57 pm"}
 {"timestamp":"2026-05-03T17:00:07.990Z","action":"no_change","location":"Trump National Doral, Miami, Florida"}
 {"timestamp":"2026-05-03T17:00:10.813Z","action":"no_change","location":"Trump National Doral, Miami, Florida"}
+{"timestamp":"2026-05-03T18:00:09.115Z","action":"no_change","location":"Trump National Doral, Miami, Florida"}
+{"timestamp":"2026-05-03T18:00:10.722Z","action":"location_change","previous":"Trump National Doral, Miami, Florida","new":"Doral, Florida","detected_location":"Doral, Florida","lid_detected":true,"confidence":"high","source_post":"POTUS motorcade arrived at the president's Doral club at 7:31. The WH called a lid at 7:57 pm"}
