@@ -1,0 +1,4 @@
+# POTUS Tracker Log - Started 2026-05-02
+# Format: JSON, one entry per line
+
+{"timestamp":"2026-05-03T14:12:45.975Z","action":"no_posts","notes":"scrape returned empty"}

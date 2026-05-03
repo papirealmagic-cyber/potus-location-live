@@ -6,9 +6,9 @@ const { GoogleGenerativeAI } = require("@google/generative-ai");
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 const repoPath = path.join(__dirname, 'potus-location-live-repo');
-const scheduleFile = path.join(repoPath, 'schedule.json');
+const scheduleFile = path.join(repoPath, 'daily_schedule.json');
 
-async function potusDailyBuilder() {
+async function buildSchedule() {
     try {
         const browser = await puppeteer.launch({headless: true, executablePath: '/usr/bin/google-chrome-stable'});
         const page = await browser.newPage();
@@ -17,24 +17,21 @@ async function potusDailyBuilder() {
         await browser.close();
 
         const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
-        const result = await model.generateContent(`Analyze these 10 reports from WH Press Pool: ${posts.slice(0, 10).join(' | ')}. Extract the President's schedule for the next day. Return a JSON array of objects: { "location": "String", "time": "24h HH:mm" }. If he is staying at The White House all day, return an empty array.`);
+        const result = await model.generateContent(`Analyze these 10 reports from WH Press Pool: ${posts.slice(0, 10).join(' | ')}. Extract the POTUS travel schedule for tomorrow. Return a JSON array of: { "location": "String", "time_et": "HH:mm" }. Example: [{"location": "Phoenix, AZ", "time_et": "14:00"}]. If no travel, return [].`);
         const schedule = JSON.parse(result.response.text());
-
         fs.writeFileSync(scheduleFile, JSON.stringify(schedule));
 
-        // Create individual cron jobs for each event
-        schedule.forEach(event => {
-            const [hours, minutes] = event.time.split(':');
-            // Schedule map update at the specified time
-            execSync(`openclaw tasks create --name "Update Map: ${event.location}" --cron "${minutes} ${hours} * * *" --payload "node ${repoPath}/update_map.js ${event.location}"`);
-            // Schedule verification 5 mins later
-            const verifierMinutes = (parseInt(minutes) + 5) % 60;
-            const verifierHours = parseInt(minutes) + 5 >= 60 ? (parseInt(hours) + 1) % 24 : hours;
-            execSync(`openclaw tasks create --name "Verify Map: ${event.location}" --cron "${verifierMinutes} ${verifierHours} * * *" --payload "node ${repoPath}/verify_map.js ${event.location}"`);
-        });
-
-        console.log('Daily Builder executed successfully.');
+        for (const event of schedule) {
+            const [h, m] = event.time_et.split(':');
+            // 1. One-time Update Job
+            execSync(`openclaw tasks create --cron "${m} ${h} * * *" "node ${repoPath}/update_map.js '${event.location}'"`);
+            // 2. One-time Verifier Job (15 mins later)
+            const vMin = (parseInt(m) + 15) % 60;
+            const vHour = parseInt(m) + 15 >= 60 ? (parseInt(h) + 1) % 24 : h;
+            execSync(`openclaw tasks create --cron "${vMin} ${vHour} * * *" "node ${repoPath}/verify_map.js '${event.location}'"`);
+        }
+        execSync(`openclaw message send --channel telegram --target 7954693898 --message "POTUS Daily Builder: Schedule set for ${schedule.length} events."`);
     } catch (e) { console.error(e); }
 }
 
-potusDailyBuilder();
+buildSchedule();
