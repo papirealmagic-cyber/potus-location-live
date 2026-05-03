@@ -19,3 +19,4 @@
 {"timestamp":"2026-05-03T20:00:11.767Z","action":"location_change","previous":"Doral, Florida","new":"Trump National Doral, Miami, Florida","detected_location":"Trump National Doral, Miami, Florida","lid_detected":true,"confidence":"high","source_post":"POTUS has been seen via Golf Channel footage attending the Cadillac Championship tournament here at his Trump National Doral club"}
 {"timestamp":"2026-05-03T21:00:08.032Z","action":"no_change","location":"Trump National Doral, Miami, Florida"}
 {"timestamp":"2026-05-03T21:00:10.392Z","action":"no_change","location":"Trump National Doral, Miami, Florida"}
+{"timestamp":"2026-05-03T22:00:09.145Z","action":"location_change","previous":"Trump National Doral, Miami, Florida","new":"Miami, Florida","detected_location":"Miami, Florida","lid_detected":false,"confidence":"high","source_post":"POTUS motorcade arrived at MIA at 5:09 pm"}
