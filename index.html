@@ -15,10 +15,10 @@ body,html,#map{height:100%;margin:0;padding:0;width:100%}
 </head><body>
 <div id="map"></div>
 <div id="marker-overlay"><img src="PotusLive3.gif" width="100" height="100"/></div>
-<div id="info-panel"><h3>🐾 POTUS Tracker</h3><p><strong>Current Location:</strong></p><p>Trump International Golf Club, Doral, Florida</p><p class="timestamp">Updated: 5/3/2026, 7:33:53 AM</p></div>
+<div id="info-panel"><h3>🐾 POTUS Tracker</h3><p><strong>Current Location:</strong></p><p>Trump International Golf Club, Doral, Florida</p><p class="timestamp">Updated: 5/3/2026, 7:49:28 AM</p></div>
 <script>
 function initMap(){
-  var loc={lat:25.8067,lng:-80.3403};
+  var loc={lat:25.8126,lng:-80.3387};
   var map=new google.maps.Map(document.getElementById('map'),{zoom:10,center:loc,mapTypeId:'roadmap'});
   var overlay=new google.maps.OverlayView();
   overlay.onAdd=function(){this.getPanes().overlayImage.appendChild(document.getElementById('marker-overlay'));};
