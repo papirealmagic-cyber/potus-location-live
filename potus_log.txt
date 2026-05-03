@@ -2,3 +2,4 @@
 # Format: JSON, one entry per line
 
 {"timestamp":"2026-05-03T14:12:45.975Z","action":"no_posts","notes":"scrape returned empty"}
+{"timestamp":"2026-05-03T14:26:45.855Z","action":"lid_set","detected_location":"Trump National Doral, Miami, Florida","lid_detected":true,"confidence":"high","source_post":"POTUS motorcade arrived at the president's Doral club at 7:31... WH called a lid at 7:57 pm"}
