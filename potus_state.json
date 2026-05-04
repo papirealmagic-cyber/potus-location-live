@@ -1,7 +1,7 @@
 {
   "current_location": "Joint Base Andrews, Maryland",
-  "lid_active": false,
-  "gif_state": "PotusLive3.gif",
-  "last_updated": "2026-05-04T00:00:10.259Z",
+  "lid_active": true,
+  "gif_state": "PotusLid2.gif",
+  "last_updated": "2026-05-04T01:00:07.426Z",
   "notes": "Initial state from manual update"
 }

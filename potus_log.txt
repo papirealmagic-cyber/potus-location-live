@@ -24,3 +24,4 @@
 {"timestamp":"2026-05-03T23:00:07.435Z","action":"no_change","location":"Miami, Florida"}
 {"timestamp":"2026-05-03T23:00:10.252Z","action":"no_change","location":"Miami, Florida"}
 {"timestamp":"2026-05-04T00:00:08.909Z","action":"location_change","previous":"Miami, Florida","new":"Joint Base Andrews, Maryland","detected_location":"Joint Base Andrews, Maryland","lid_detected":false,"confidence":"high","source_post":"M1 lifted at 7:42 pm en route to WH"}
+{"timestamp":"2026-05-04T00:00:11.656Z","action":"location_change","previous":"Miami, Florida","new":"Joint Base Andrews, Maryland","detected_location":"Joint Base Andrews, Maryland","lid_detected":false,"confidence":"high","source_post":"M1 lifted at 7:42 pm en route to WH"}
