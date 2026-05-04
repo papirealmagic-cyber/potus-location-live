@@ -25,3 +25,5 @@
 {"timestamp":"2026-05-03T23:00:10.252Z","action":"no_change","location":"Miami, Florida"}
 {"timestamp":"2026-05-04T00:00:08.909Z","action":"location_change","previous":"Miami, Florida","new":"Joint Base Andrews, Maryland","detected_location":"Joint Base Andrews, Maryland","lid_detected":false,"confidence":"high","source_post":"M1 lifted at 7:42 pm en route to WH"}
 {"timestamp":"2026-05-04T00:00:11.656Z","action":"location_change","previous":"Miami, Florida","new":"Joint Base Andrews, Maryland","detected_location":"Joint Base Andrews, Maryland","lid_detected":false,"confidence":"high","source_post":"M1 lifted at 7:42 pm en route to WH"}
+{"timestamp":"2026-05-04T01:00:10.577Z","action":"lid_set","detected_location":"The White House","lid_detected":true,"confidence":"high","source_post":"M1 touched down on the South Lawn at 1954... We have a travel/photo lid."}
+{"timestamp":"2026-05-04T01:00:10.935Z","action":"lid_set","detected_location":"The White House","lid_detected":true,"confidence":"high","source_post":"M1 touched down on the South Lawn at 1954... We have a travel/photo lid."}

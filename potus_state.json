@@ -1,7 +1,7 @@
 {
-  "current_location": "Joint Base Andrews, Maryland",
-  "lid_active": true,
-  "gif_state": "PotusLid2.gif",
-  "last_updated": "2026-05-04T01:00:09.315Z",
+  "current_location": "The White House",
+  "lid_active": false,
+  "gif_state": "PotusLive3.gif",
+  "last_updated": "2026-05-04T01:01:29.957Z",
   "notes": "Initial state from manual update"
 }

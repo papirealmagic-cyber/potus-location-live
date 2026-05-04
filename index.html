@@ -2,7 +2,7 @@
 <html><head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta property="og:title" content="POTUS Live Location">
-<meta property="og:description" content="Live tracking: POTUS currently at Joint Base Andrews, Maryland">
+<meta property="og:description" content="Live tracking: POTUS currently at The White House">
 <style>
 body,html,#map{height:100%;margin:0;padding:0;width:100%}
 #marker-overlay{position:absolute;width:100px;height:100px;z-index:1000;pointer-events:none}
@@ -14,11 +14,11 @@ body,html,#map{height:100%;margin:0;padding:0;width:100%}
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZg9pzWoBhlkiArmE0rWtLhFTonsPO1jI"></script>
 </head><body>
 <div id="map"></div>
-<div id="marker-overlay"><img src="PotusLid2.gif" width="100" height="100"/></div>
-<div id="info-panel"><h3>🐾 POTUS Tracker</h3><p><strong>Current Location:</strong></p><p>Joint Base Andrews, Maryland</p><p class="timestamp">Updated: 5/3/2026, 6:00:09 PM</p></div>
+<div id="marker-overlay"><img src="PotusLive3.gif" width="100" height="100"/></div>
+<div id="info-panel"><h3>🐾 POTUS Tracker</h3><p><strong>Current Location:</strong></p><p>The White House</p><p class="timestamp">Updated: 5/3/2026, 6:01:29 PM</p></div>
 <script>
 function initMap(){
-  var loc={lat:38.809,lng:-76.8758};
+  var loc={lat:38.8977,lng:-77.0365};
   var map=new google.maps.Map(document.getElementById('map'),{zoom:10,center:loc,mapTypeId:'roadmap'});
   var overlay=new google.maps.OverlayView();
   overlay.onAdd=function(){this.getPanes().overlayImage.appendChild(document.getElementById('marker-overlay'));};
