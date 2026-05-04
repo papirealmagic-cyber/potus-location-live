@@ -6,16 +6,38 @@
 <style>
 body,html,#map{height:100%;margin:0;padding:0;width:100%}
 #marker-overlay{position:absolute;width:100px;height:100px;z-index:1000;pointer-events:none}
-#info-panel{position:absolute;bottom:20px;left:20px;background:#fff;padding:15px;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,.2);z-index:999;font-family:Arial,sans-serif;max-width:300px}
-#info-panel h3{margin:0 0 10px 0;color:#333}
+#info-panel{position:absolute;bottom:20px;left:20px;background:#fff;padding:15px;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,.2);z-index:999;font-family:Arial,sans-serif;max-width:300px;cursor:pointer;transition:all .25s ease;box-sizing:border-box}
+#info-panel h3{margin:0 0 10px 0;color:#333;font-size:16px}
 #info-panel p{margin:5px 0;color:#666;font-size:14px}
 .timestamp{color:#999;font-size:12px}
+#info-panel .panel-body{display:block}
+#info-panel.collapsed{padding:8px 12px;max-width:none;width:auto}
+#info-panel.collapsed h3{margin:0;font-size:14px}
+#info-panel.collapsed .panel-body{display:none}
+@media (max-width:600px){
+  #info-panel{padding:8px 12px;max-width:none;width:auto;bottom:10px;left:10px}
+  #info-panel h3{margin:0;font-size:13px}
+  #info-panel .panel-body{display:none}
+  #info-panel.expanded{padding:15px;max-width:80%}
+  #info-panel.expanded h3{margin:0 0 10px 0;font-size:16px}
+  #info-panel.expanded .panel-body{display:block}
+}
 </style>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZg9pzWoBhlkiArmE0rWtLhFTonsPO1jI"></script>
 </head><body>
 <div id="map"></div>
 <div id="marker-overlay"><img src="PotusLive3.gif" width="100" height="100"/></div>
-<div id="info-panel"><h3>🐾 POTUS Tracker</h3><p><strong>Current Location:</strong></p><p>The White House</p><p class="timestamp">Updated: 5/3/2026, 6:01:29 PM</p></div>
+<div id="info-panel" onclick="togglePanel()" title="Tap to toggle"><h3>🐾 POTUS Tracker</h3><div class="panel-body"><p><strong>Current Location:</strong></p><p>The White House</p><p class="timestamp">Updated: 5/3/2026, 6:01:29 PM</p></div></div>
+<script>
+function togglePanel(){
+  var p=document.getElementById('info-panel');
+  if(window.matchMedia('(max-width:600px)').matches){
+    p.classList.toggle('expanded');
+  } else {
+    p.classList.toggle('collapsed');
+  }
+}
+</script>
 <script>
 function initMap(){
   var loc={lat:38.8977,lng:-77.0365};
