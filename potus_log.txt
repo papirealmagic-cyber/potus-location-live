@@ -218,3 +218,16 @@
 {"timestamp":"2026-05-12T03:00:24.657Z","action":"no_posts"}
 {"timestamp":"2026-05-12T04:00:26.395Z","action":"no_posts"}
 {"timestamp":"2026-05-12T04:49:12.324Z","action":"stale_warning_sent","age_hours":196}
+{"timestamp":"2026-05-12T04:49:16.511Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"White House Press Office: Full lid called at 8:10 PM on May 11","eastern_hour":0}
+{"timestamp":"2026-05-12T04:54:41.464Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":0,"source_event":"White House Press Office: Full lid called at 8:10 PM"}
+{"timestamp":"2026-05-12T04:54:41.464Z","action":"lid_noted","lid_type":"full_night","eastern_hour":0,"source_event":"White House Press Office: Full lid called at 8:10 PM"}
+{"timestamp":"2026-05-12T04:54:41.464Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-12T05:00:03.982Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":1,"source_event":"White House Press Office: Full lid called at 8:10 PM on May 11"}
+{"timestamp":"2026-05-12T05:00:03.983Z","action":"lid_noted","lid_type":"full_night","eastern_hour":1,"source_event":"White House Press Office: Full lid called at 8:10 PM on May 11"}
+{"timestamp":"2026-05-12T05:00:03.983Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-12T06:00:04.028Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":2,"source_event":"White House Press Office: Full lid called at 8:10 PM on May 11"}
+{"timestamp":"2026-05-12T06:00:04.059Z","action":"lid_noted","lid_type":"full_night","eastern_hour":2,"source_event":"White House Press Office: Full lid called at 8:10 PM on May 11"}
+{"timestamp":"2026-05-12T06:00:04.059Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-12T07:00:03.510Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":3,"source_event":"White House Press Office: Full lid called at 8:10 PM on May 11"}
+{"timestamp":"2026-05-12T07:00:03.511Z","action":"lid_noted","lid_type":"full_night","eastern_hour":3,"source_event":"White House Press Office: Full lid called at 8:10 PM on May 11"}
+{"timestamp":"2026-05-12T07:00:03.511Z","action":"no_change","location":"The White House"}
