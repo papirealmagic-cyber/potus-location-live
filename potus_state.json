@@ -1,7 +1,7 @@
 {
   "current_location": "The White House",
-  "lid_active": false,
-  "gif_state": "PotusLive3.gif",
-  "last_updated": "2026-05-04T01:01:29.957Z",
+  "lid_active": true,
+  "gif_state": "PotusLid2.gif",
+  "last_updated": "2026-05-12T04:49:14.375Z",
   "notes": "Initial state from manual update"
 }
