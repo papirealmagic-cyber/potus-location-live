@@ -256,3 +256,5 @@
 {"timestamp":"2026-05-13T06:00:03.604Z","action":"no_change","location":"Beijing, China"}
 {"timestamp":"2026-05-13T07:00:04.049Z","action":"no_change","location":"Beijing, China"}
 {"timestamp":"2026-05-13T08:00:03.674Z","action":"no_change","location":"Beijing, China"}
+{"timestamp":"2026-05-13T09:00:06.033Z","action":"location_change","previous":"Beijing, China","new":"The White House","detected_location":"The White House","lid_type":"none","confidence":"high","source_event":"White House Press Office: Lunch lid until 1:00 PM"}
+{"timestamp":"2026-05-13T10:00:04.009Z","action":"no_change","location":"The White House"}
