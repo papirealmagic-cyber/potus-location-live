@@ -258,3 +258,10 @@
 {"timestamp":"2026-05-13T08:00:03.674Z","action":"no_change","location":"Beijing, China"}
 {"timestamp":"2026-05-13T09:00:06.033Z","action":"location_change","previous":"Beijing, China","new":"The White House","detected_location":"The White House","lid_type":"none","confidence":"high","source_event":"White House Press Office: Lunch lid until 1:00 PM"}
 {"timestamp":"2026-05-13T10:00:04.009Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-13T11:00:05.343Z","action":"location_change","previous":"The White House","new":"Beijing, China","detected_location":"Beijing, China","lid_type":"none","confidence":"high","source_event":"The President arrives in Beijing, China at 7:35 PM (most recent passed event on May 13)"}
+{"timestamp":"2026-05-13T11:51:43.564Z","action":"no_change","location":"Beijing, China"}
+{"timestamp":"2026-05-13T12:00:03.498Z","action":"no_change","location":"Beijing, China"}
+{"timestamp":"2026-05-13T13:00:04.658Z","action":"no_change","location":"Beijing, China"}
+{"timestamp":"2026-05-13T14:00:03.244Z","action":"no_change","location":"Beijing, China"}
+{"timestamp":"2026-05-13T15:00:04.233Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":11,"source_event":"The President arrives at the Four Seasons Hotel Beijing [Local: 8:38 PM]"}
+{"timestamp":"2026-05-13T15:00:04.233Z","action":"lid_noted","lid_type":"full_night","eastern_hour":11,"source_event":"The President arrives at the Four Seasons Hotel Beijing [Local: 8:38 PM]"}
