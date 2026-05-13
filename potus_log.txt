@@ -248,3 +248,6 @@
 {"timestamp":"2026-05-12T21:00:03.909Z","action":"no_change","location":"Joint Base Andrews"}
 {"timestamp":"2026-05-13T01:00:06.446Z","action":"lid_set","detected_location":"Beijing, China","lid_type":"full_night","confidence":"medium","source_event":"The President departs The White House en route Beijing, China","eastern_hour":21}
 {"timestamp":"2026-05-13T02:00:03.560Z","action":"lid_noted","lid_type":"travel","eastern_hour":22,"source_event":"The President arrives at Ted Stevens Anchorage International Airport to refuel en route to Beijing [Local: 5:15 PM]"}
+{"timestamp":"2026-05-13T02:00:06.075Z","action":"location_change","previous":"Joint Base Andrews","new":"Ted Stevens Anchorage International Airport, Alaska","detected_location":"Ted Stevens Anchorage International Airport, Alaska","lid_type":"travel","confidence":"high","source_event":"The President arrives at Ted Stevens Anchorage International Airport to refuel en route to Beijing [Local: 5:15 PM]"}
+{"timestamp":"2026-05-13T03:00:04.449Z","action":"lid_noted","lid_type":"travel","eastern_hour":23,"source_event":"The President arrives at Ted Stevens Anchorage International Airport to refuel en route to Beijing [Local: 5:15 PM]"}
+{"timestamp":"2026-05-13T03:00:04.475Z","action":"no_change","location":"Ted Stevens Anchorage International Airport, Alaska"}
