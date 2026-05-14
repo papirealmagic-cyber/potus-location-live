@@ -298,3 +298,8 @@
 {"timestamp":"2026-05-14T08:00:03.084Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
 {"timestamp":"2026-05-14T09:00:04.257Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
 {"timestamp":"2026-05-14T10:00:06.040Z","action":"location_change","previous":"Four Seasons Hotel Beijing","new":"Four Seasons Hotel Beijing, China","detected_location":"Four Seasons Hotel Beijing, China","lid_type":"none","confidence":"high","source_event":"The President arrives at the Four Seasons Hotel Beijing [Local: 1:55 PM]"}
+{"timestamp":"2026-05-14T11:00:08.004Z","action":"location_change","previous":"Four Seasons Hotel Beijing, China","new":"Great Hall of the People, Beijing","detected_location":"Great Hall of the People, Beijing","lid_type":"none","confidence":"high","source_event":"The President participates in a State Banquet with the President of the People's Republic of China [Local: 6:00 PM]"}
+{"timestamp":"2026-05-14T12:00:04.307Z","action":"no_change","location":"Great Hall of the People, Beijing"}
+{"timestamp":"2026-05-14T13:00:03.765Z","action":"no_change","location":"Great Hall of the People, Beijing"}
+{"timestamp":"2026-05-14T14:00:03.489Z","action":"no_change","location":"Great Hall of the People, Beijing"}
+{"timestamp":"2026-05-14T15:00:04.153Z","action":"no_change","location":"Great Hall of the People, Beijing"}
