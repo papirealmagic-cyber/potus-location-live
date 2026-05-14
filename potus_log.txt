@@ -303,3 +303,10 @@
 {"timestamp":"2026-05-14T13:00:03.765Z","action":"no_change","location":"Great Hall of the People, Beijing"}
 {"timestamp":"2026-05-14T14:00:03.489Z","action":"no_change","location":"Great Hall of the People, Beijing"}
 {"timestamp":"2026-05-14T15:00:04.153Z","action":"no_change","location":"Great Hall of the People, Beijing"}
+{"timestamp":"2026-05-14T16:00:05.841Z","action":"location_change","previous":"Great Hall of the People, Beijing","new":"Four Seasons Hotel Beijing","detected_location":"Four Seasons Hotel Beijing","lid_type":"none","confidence":"high","source_event":"The President arrives at the Four Seasons Hotel Beijing [Local: 1:55 PM]"}
+{"timestamp":"2026-05-14T17:00:04.023Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
+{"timestamp":"2026-05-14T18:00:03.454Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
+{"timestamp":"2026-05-14T19:00:04.972Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
+{"timestamp":"2026-05-14T20:00:03.438Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
+{"timestamp":"2026-05-14T21:00:04.809Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at the Four Seasons Hotel Beijing [Local: 9:04 PM]"}
+{"timestamp":"2026-05-14T21:00:04.809Z","action":"lid_noted","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at the Four Seasons Hotel Beijing [Local: 9:04 PM]"}
