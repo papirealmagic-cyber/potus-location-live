@@ -292,3 +292,4 @@
 {"timestamp":"2026-05-14T03:00:06.433Z","action":"lid_set","detected_location":"Beijing, China","lid_type":"full_night","confidence":"high","source_event":"The President arrives at the Four Seasons Hotel Beijing [Local: 8:38 PM] + White House Press Office: Full lid called at 8:43 AM","eastern_hour":23}
 {"timestamp":"2026-05-14T04:00:07.604Z","action":"lid_cleared","eastern_hour":0}
 {"timestamp":"2026-05-14T04:00:07.604Z","action":"no_change","location":"Beijing, China"}
+{"timestamp":"2026-05-14T05:00:05.908Z","action":"location_change","previous":"Beijing, China","new":"Zhongnanhai, Beijing","detected_location":"Zhongnanhai, Beijing","lid_type":"none","confidence":"high","source_event":"The President participates in a Bilateral Tea with the President of the People's Republic of China [Local: 11:40 AM 5/15]"}
