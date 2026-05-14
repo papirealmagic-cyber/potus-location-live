@@ -284,3 +284,7 @@
 {"timestamp":"2026-05-13T21:00:04.185Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at the Four Seasons Hotel Beijing [Local: 8:38 PM]"}
 {"timestamp":"2026-05-13T21:00:04.185Z","action":"lid_noted","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at the Four Seasons Hotel Beijing [Local: 8:38 PM]"}
 {"timestamp":"2026-05-13T21:00:04.185Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
+{"timestamp":"2026-05-13T22:00:06.102Z","action":"lid_set","detected_location":"Four Seasons Hotel Beijing","lid_type":"full_night","confidence":"high","source_event":"The President arrives at the Four Seasons Hotel Beijing [8:38 AM]; Full lid called [8:43 AM]","eastern_hour":18}
+{"timestamp":"2026-05-13T23:00:04.715Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
+{"timestamp":"2026-05-14T00:00:04.139Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
+{"timestamp":"2026-05-14T01:00:03.779Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
