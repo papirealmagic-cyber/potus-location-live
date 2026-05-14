@@ -297,3 +297,4 @@
 {"timestamp":"2026-05-14T07:00:06.047Z","action":"location_change","previous":"Four Seasons Hotel Beijing, China","new":"Four Seasons Hotel Beijing","detected_location":"Four Seasons Hotel Beijing","lid_type":"none","confidence":"high","source_event":"The President arrives at the Four Seasons Hotel Beijing [Local: 1:55 PM]"}
 {"timestamp":"2026-05-14T08:00:03.084Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
 {"timestamp":"2026-05-14T09:00:04.257Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
+{"timestamp":"2026-05-14T10:00:06.040Z","action":"location_change","previous":"Four Seasons Hotel Beijing","new":"Four Seasons Hotel Beijing, China","detected_location":"Four Seasons Hotel Beijing, China","lid_type":"none","confidence":"high","source_event":"The President arrives at the Four Seasons Hotel Beijing [Local: 1:55 PM]"}
