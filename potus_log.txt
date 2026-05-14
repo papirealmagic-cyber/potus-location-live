@@ -294,3 +294,6 @@
 {"timestamp":"2026-05-14T04:00:07.604Z","action":"no_change","location":"Beijing, China"}
 {"timestamp":"2026-05-14T05:00:05.908Z","action":"location_change","previous":"Beijing, China","new":"Zhongnanhai, Beijing","detected_location":"Zhongnanhai, Beijing","lid_type":"none","confidence":"high","source_event":"The President participates in a Bilateral Tea with the President of the People's Republic of China [Local: 11:40 AM 5/15]"}
 {"timestamp":"2026-05-14T06:00:06.064Z","action":"location_change","previous":"Zhongnanhai, Beijing","new":"Four Seasons Hotel Beijing, China","detected_location":"Four Seasons Hotel Beijing, China","lid_type":"none","confidence":"high","source_event":"The President departs the Temple of Heaven in Beijing for the Four Seasons Hotel [Local: 1:31 PM]"}
+{"timestamp":"2026-05-14T07:00:06.047Z","action":"location_change","previous":"Four Seasons Hotel Beijing, China","new":"Four Seasons Hotel Beijing","detected_location":"Four Seasons Hotel Beijing","lid_type":"none","confidence":"high","source_event":"The President arrives at the Four Seasons Hotel Beijing [Local: 1:55 PM]"}
+{"timestamp":"2026-05-14T08:00:03.084Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
+{"timestamp":"2026-05-14T09:00:04.257Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
