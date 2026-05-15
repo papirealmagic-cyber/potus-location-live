@@ -317,3 +317,22 @@
 {"timestamp":"2026-05-15T01:00:03.710Z","action":"no_change","location":"Four Seasons Hotel Beijing"}
 {"timestamp":"2026-05-15T02:00:06.163Z","action":"lid_cleared","eastern_hour":22}
 {"timestamp":"2026-05-15T02:00:07.704Z","action":"location_change","previous":"Four Seasons Hotel Beijing","new":"Zhongnanhai, Beijing","detected_location":"Zhongnanhai, Beijing","lid_type":"none","confidence":"high","source_event":"The President participates in a Bilateral Tea with the President of the People's Republic of China [Local: 11:40 AM 5/15]"}
+{"timestamp":"2026-05-15T03:00:06.072Z","action":"location_change","previous":"Zhongnanhai, Beijing","new":"Zhongnanhai, Beijing, China","detected_location":"Zhongnanhai, Beijing, China","lid_type":"none","confidence":"high","source_event":"The President participates in a Bilateral Tea with the President of the People's Republic of China [Local: 11:40 AM 5/15]"}
+{"timestamp":"2026-05-15T04:00:03.437Z","action":"no_change","location":"Zhongnanhai, Beijing, China"}
+{"timestamp":"2026-05-15T05:00:03.032Z","action":"analysis_failed"}
+{"timestamp":"2026-05-15T06:00:11.658Z","action":"rollcall_fetch_error","error":"getaddrinfo EAI_AGAIN rollcall.com"}
+{"timestamp":"2026-05-15T07:00:11.185Z","action":"rollcall_fetch_error","error":"getaddrinfo EAI_AGAIN rollcall.com"}
+{"timestamp":"2026-05-15T08:00:11.629Z","action":"rollcall_fetch_error","error":"getaddrinfo EAI_AGAIN rollcall.com"}
+{"timestamp":"2026-05-15T09:00:11.343Z","action":"rollcall_fetch_error","error":"getaddrinfo EAI_AGAIN rollcall.com"}
+{"timestamp":"2026-05-15T10:00:11.358Z","action":"rollcall_fetch_error","error":"getaddrinfo EAI_AGAIN rollcall.com"}
+{"timestamp":"2026-05-15T11:00:11.105Z","action":"rollcall_fetch_error","error":"getaddrinfo EAI_AGAIN rollcall.com"}
+{"timestamp":"2026-05-15T12:00:11.712Z","action":"rollcall_fetch_error","error":"getaddrinfo EAI_AGAIN rollcall.com"}
+{"timestamp":"2026-05-15T13:00:11.217Z","action":"rollcall_fetch_error","error":"getaddrinfo EAI_AGAIN rollcall.com"}
+{"timestamp":"2026-05-15T14:00:11.861Z","action":"rollcall_fetch_error","error":"getaddrinfo EAI_AGAIN rollcall.com"}
+{"timestamp":"2026-05-15T15:00:02.934Z","action":"analysis_failed"}
+{"timestamp":"2026-05-15T16:00:02.857Z","action":"analysis_failed"}
+{"timestamp":"2026-05-15T17:00:04.215Z","action":"analysis_failed"}
+{"timestamp":"2026-05-15T18:00:03.478Z","action":"analysis_failed"}
+{"timestamp":"2026-05-15T19:00:02.435Z","action":"analysis_failed"}
+{"timestamp":"2026-05-15T20:00:02.541Z","action":"analysis_failed"}
+{"timestamp":"2026-05-15T21:00:02.493Z","action":"analysis_failed"}
