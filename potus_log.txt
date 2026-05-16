@@ -336,3 +336,5 @@
 {"timestamp":"2026-05-15T19:00:02.435Z","action":"analysis_failed"}
 {"timestamp":"2026-05-15T20:00:02.541Z","action":"analysis_failed"}
 {"timestamp":"2026-05-15T21:00:02.493Z","action":"analysis_failed"}
+{"timestamp":"2026-05-15T22:00:06.228Z","action":"location_change","previous":"Zhongnanhai, Beijing, China","new":"Joint Base Andrews","detected_location":"Joint Base Andrews, Maryland","lid_type":"none","confidence":"medium","source_event":"The President departs Ted Stevens Anchorage International Airport, Alaska for Joint Base Andrews [Local: 8:20 AM]"}
+{"timestamp":"2026-05-15T23:00:03.782Z","action":"no_change","location":"Joint Base Andrews"}
