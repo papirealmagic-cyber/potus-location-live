@@ -339,3 +339,9 @@
 {"timestamp":"2026-05-15T22:00:06.228Z","action":"location_change","previous":"Zhongnanhai, Beijing, China","new":"Joint Base Andrews","detected_location":"Joint Base Andrews, Maryland","lid_type":"none","confidence":"medium","source_event":"The President departs Ted Stevens Anchorage International Airport, Alaska for Joint Base Andrews [Local: 8:20 AM]"}
 {"timestamp":"2026-05-15T23:00:03.782Z","action":"no_change","location":"Joint Base Andrews"}
 {"timestamp":"2026-05-16T00:00:05.073Z","action":"location_change","previous":"Joint Base Andrews","new":"The White House","detected_location":"en route to The White House","lid_type":"none","confidence":"medium","source_event":"The President departs Beijing, China, en route The White House"}
+{"timestamp":"2026-05-16T01:00:05.496Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"The President arrives at the White House / White House Press Office: Full lid called","eastern_hour":21}
+{"timestamp":"2026-05-16T02:00:04.756Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T03:00:03.453Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T04:00:05.551Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":0,"source_event":"The President arrives at the White House"}
+{"timestamp":"2026-05-16T04:00:05.579Z","action":"lid_noted","lid_type":"full_night","eastern_hour":0,"source_event":"The President arrives at the White House"}
+{"timestamp":"2026-05-16T04:00:05.579Z","action":"no_change","location":"The White House"}
