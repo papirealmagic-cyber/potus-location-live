@@ -345,3 +345,27 @@
 {"timestamp":"2026-05-16T04:00:05.551Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":0,"source_event":"The President arrives at the White House"}
 {"timestamp":"2026-05-16T04:00:05.579Z","action":"lid_noted","lid_type":"full_night","eastern_hour":0,"source_event":"The President arrives at the White House"}
 {"timestamp":"2026-05-16T04:00:05.579Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T05:00:06.462Z","action":"lid_cleared","eastern_hour":1}
+{"timestamp":"2026-05-16T05:00:06.463Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T06:00:03.344Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T07:00:03.695Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T08:00:04.809Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T09:00:04.168Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T10:00:03.456Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T11:00:03.811Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T12:00:04.741Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T13:00:05.097Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T14:00:03.699Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T15:00:03.259Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T16:00:03.844Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T17:00:04.114Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T18:00:03.555Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T19:00:04.708Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":15,"source_event":"The President arrives at the White House (8:00 AM event on May 16, most recent passed event before 3:00 PM)"}
+{"timestamp":"2026-05-16T19:00:04.709Z","action":"lid_noted","lid_type":"full_night","eastern_hour":15,"source_event":"The President arrives at the White House (8:00 AM event on May 16, most recent passed event before 3:00 PM)"}
+{"timestamp":"2026-05-16T19:00:04.709Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T20:00:02.974Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":16,"source_event":"The President arrives at the White House (6:54 PM Friday) and White House Press Office: Full lid called (7:00 PM Friday)"}
+{"timestamp":"2026-05-16T20:00:02.974Z","action":"lid_noted","lid_type":"full_night","eastern_hour":16,"source_event":"The President arrives at the White House (6:54 PM Friday) and White House Press Office: Full lid called (7:00 PM Friday)"}
+{"timestamp":"2026-05-16T20:00:02.975Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T21:00:03.628Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at the White House [6:54 PM on May 15] and Full lid called [7:00 PM on May 15]"}
+{"timestamp":"2026-05-16T21:00:03.628Z","action":"lid_noted","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at the White House [6:54 PM on May 15] and Full lid called [7:00 PM on May 15]"}
+{"timestamp":"2026-05-16T21:00:03.629Z","action":"no_change","location":"The White House"}
