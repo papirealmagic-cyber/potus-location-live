@@ -375,3 +375,22 @@
 {"timestamp":"2026-05-17T01:00:03.207Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-17T02:00:03.745Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-17T03:00:04.285Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T04:00:04.842Z","action":"lid_cleared","eastern_hour":0}
+{"timestamp":"2026-05-17T04:00:04.842Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T05:00:03.692Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T06:00:03.744Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T07:00:04.283Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T08:00:03.339Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T09:00:04.008Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T10:00:08.677Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T11:00:03.367Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T12:00:03.619Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T13:00:03.453Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T14:00:03.358Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T15:00:03.141Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T16:00:03.548Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T17:00:03.194Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T18:00:03.301Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T19:00:03.585Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T20:00:03.552Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T21:00:03.673Z","action":"no_change","location":"The White House"}
