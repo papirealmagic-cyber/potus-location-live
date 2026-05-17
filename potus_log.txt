@@ -369,3 +369,9 @@
 {"timestamp":"2026-05-16T21:00:03.628Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at the White House [6:54 PM on May 15] and Full lid called [7:00 PM on May 15]"}
 {"timestamp":"2026-05-16T21:00:03.628Z","action":"lid_noted","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at the White House [6:54 PM on May 15] and Full lid called [7:00 PM on May 15]"}
 {"timestamp":"2026-05-16T21:00:03.629Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-16T22:00:05.773Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"The President arrives at the White House (6:54 PM) and White House Press Office: Full lid called (7:00 PM)","eastern_hour":18}
+{"timestamp":"2026-05-16T23:00:03.844Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T00:00:03.834Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T01:00:03.207Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T02:00:03.745Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-17T03:00:04.285Z","action":"no_change","location":"The White House"}
