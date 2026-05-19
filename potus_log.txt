@@ -420,3 +420,4 @@
 {"timestamp":"2026-05-18T20:00:04.126Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-18T21:00:14.826Z","action":"location_change","previous":"The White House","new":"South Court Auditorium","detected_location":"South Court Auditorium","lid_type":"none","confidence":"high","source_event":"The President participates in a Healthcare Affordability Event at 4:30 PM"}
 {"timestamp":"2026-05-18T22:00:03.235Z","action":"no_change","location":"South Court Auditorium"}
+{"timestamp":"2026-05-18T23:00:06.975Z","action":"location_change","previous":"South Court Auditorium","new":"The White House","detected_location":"The White House","lid_type":"none","confidence":"high","source_event":"The President participates in a Healthcare Affordability Event at South Court Auditorium at 4:30 PM"}
