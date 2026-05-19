@@ -421,3 +421,7 @@
 {"timestamp":"2026-05-18T21:00:14.826Z","action":"location_change","previous":"The White House","new":"South Court Auditorium","detected_location":"South Court Auditorium","lid_type":"none","confidence":"high","source_event":"The President participates in a Healthcare Affordability Event at 4:30 PM"}
 {"timestamp":"2026-05-18T22:00:03.235Z","action":"no_change","location":"South Court Auditorium"}
 {"timestamp":"2026-05-18T23:00:06.975Z","action":"location_change","previous":"South Court Auditorium","new":"The White House","detected_location":"The White House","lid_type":"none","confidence":"high","source_event":"The President participates in a Healthcare Affordability Event at South Court Auditorium at 4:30 PM"}
+{"timestamp":"2026-05-19T00:00:05.062Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"White House Press Office: Full lid called at 6:11 PM","eastern_hour":20}
+{"timestamp":"2026-05-19T01:00:04.441Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-19T02:00:05.116Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-19T03:00:04.831Z","action":"no_change","location":"The White House"}
