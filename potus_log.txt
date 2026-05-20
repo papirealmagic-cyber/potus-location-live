@@ -447,3 +447,6 @@
 {"timestamp":"2026-05-20T11:00:04.723Z","action":"no_change","location":"Joint Base Andrews"}
 {"timestamp":"2026-05-20T12:00:04.483Z","action":"no_change","location":"Joint Base Andrews"}
 {"timestamp":"2026-05-20T13:00:07.790Z","action":"analysis_failed"}
+{"timestamp":"2026-05-20T14:00:09.918Z","action":"location_change","previous":"Joint Base Andrews","new":"United States Coast Guard Academy","detected_location":"United States Coast Guard Academy","lid_type":"none","confidence":"high","source_event":"The President delivers a Commencement Address to The United States Coast Guard Academy at 11:00 AM"}
+{"timestamp":"2026-05-20T15:00:05.240Z","action":"no_change","location":"United States Coast Guard Academy"}
+{"timestamp":"2026-05-20T16:00:04.593Z","action":"no_change","location":"United States Coast Guard Academy"}
