@@ -443,3 +443,7 @@
 {"timestamp":"2026-05-20T07:00:07.878Z","action":"location_change","previous":"The White House","new":"Groton, Connecticut","detected_location":"Groton, Connecticut","lid_type":"none","confidence":"high","source_event":"The President arrives Groton, Connecticut at 8:00 AM"}
 {"timestamp":"2026-05-20T08:00:06.663Z","action":"location_change","previous":"Groton, Connecticut","new":"The White House","detected_location":"The White House","lid_type":"none","confidence":"high","source_event":"8:00 AM Out-of-Town Travel Pool Call Time at Joint Base Andrews"}
 {"timestamp":"2026-05-20T09:00:04.043Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-20T10:00:06.232Z","action":"location_change","previous":"The White House","new":"Joint Base Andrews","detected_location":"Joint Base Andrews","lid_type":"none","confidence":"high","source_event":"Out-of-Town Travel Pool Call Time at Joint Base Andrews at 8:00 AM"}
+{"timestamp":"2026-05-20T11:00:04.723Z","action":"no_change","location":"Joint Base Andrews"}
+{"timestamp":"2026-05-20T12:00:04.483Z","action":"no_change","location":"Joint Base Andrews"}
+{"timestamp":"2026-05-20T13:00:07.790Z","action":"analysis_failed"}
