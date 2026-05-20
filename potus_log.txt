@@ -450,3 +450,4 @@
 {"timestamp":"2026-05-20T14:00:09.918Z","action":"location_change","previous":"Joint Base Andrews","new":"United States Coast Guard Academy","detected_location":"United States Coast Guard Academy","lid_type":"none","confidence":"high","source_event":"The President delivers a Commencement Address to The United States Coast Guard Academy at 11:00 AM"}
 {"timestamp":"2026-05-20T15:00:05.240Z","action":"no_change","location":"United States Coast Guard Academy"}
 {"timestamp":"2026-05-20T16:00:04.593Z","action":"no_change","location":"United States Coast Guard Academy"}
+{"timestamp":"2026-05-20T17:00:14.827Z","action":"location_change","previous":"United States Coast Guard Academy","new":"Cadet Memorial Field, New London, CT","detected_location":"Cadet Memorial Field, New London, CT","lid_type":"none","confidence":"high","source_event":"The President arrives at Cadet Memorial Field at the United States Coast Guard Academy"}
