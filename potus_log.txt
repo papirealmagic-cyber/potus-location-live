@@ -440,3 +440,4 @@
 {"timestamp":"2026-05-20T05:00:01.280Z","action":"stale_warning_sent","age_hours":25}
 {"timestamp":"2026-05-20T05:00:04.479Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-20T06:00:05.410Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-20T07:00:07.878Z","action":"location_change","previous":"The White House","new":"Groton, Connecticut","detected_location":"Groton, Connecticut","lid_type":"none","confidence":"high","source_event":"The President arrives Groton, Connecticut at 8:00 AM"}
