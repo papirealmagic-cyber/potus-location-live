@@ -451,3 +451,4 @@
 {"timestamp":"2026-05-20T15:00:05.240Z","action":"no_change","location":"United States Coast Guard Academy"}
 {"timestamp":"2026-05-20T16:00:04.593Z","action":"no_change","location":"United States Coast Guard Academy"}
 {"timestamp":"2026-05-20T17:00:14.827Z","action":"location_change","previous":"United States Coast Guard Academy","new":"Cadet Memorial Field, New London, CT","detected_location":"Cadet Memorial Field, New London, CT","lid_type":"none","confidence":"high","source_event":"The President arrives at Cadet Memorial Field at the United States Coast Guard Academy"}
+{"timestamp":"2026-05-20T18:00:05.750Z","action":"location_change","previous":"Cadet Memorial Field, New London, CT","new":"Groton-New London Airport, CT","detected_location":"Groton-New London Airport, CT","lid_type":"none","confidence":"high","source_event":"The President arrives at Groton-New London Airport at 1:09 PM"}
