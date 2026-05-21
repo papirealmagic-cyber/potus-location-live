@@ -453,3 +453,7 @@
 {"timestamp":"2026-05-20T17:00:14.827Z","action":"location_change","previous":"United States Coast Guard Academy","new":"Cadet Memorial Field, New London, CT","detected_location":"Cadet Memorial Field, New London, CT","lid_type":"none","confidence":"high","source_event":"The President arrives at Cadet Memorial Field at the United States Coast Guard Academy"}
 {"timestamp":"2026-05-20T18:00:05.750Z","action":"location_change","previous":"Cadet Memorial Field, New London, CT","new":"Groton-New London Airport, CT","detected_location":"Groton-New London Airport, CT","lid_type":"none","confidence":"high","source_event":"The President arrives at Groton-New London Airport at 1:09 PM"}
 {"timestamp":"2026-05-20T19:00:09.966Z","action":"location_change","previous":"Groton-New London Airport, CT","new":"Joint Base Andrews","detected_location":"Joint Base Andrews","lid_type":"none","confidence":"high","source_event":"The President departs Groton-New London Airport, CT for Joint Base Andrews at 1:20 PM"}
+{"timestamp":"2026-05-20T20:00:04.888Z","action":"location_change","previous":"Joint Base Andrews","new":"The White House","detected_location":"The White House","lid_type":"none","confidence":"high","source_event":"The President arrives at the White House at 3:10 PM"}
+{"timestamp":"2026-05-20T21:00:03.386Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-20T22:00:04.946Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-20T23:00:03.783Z","action":"no_change","location":"The White House"}
