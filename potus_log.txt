@@ -467,3 +467,32 @@
 {"timestamp":"2026-05-21T05:00:03.975Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":1,"source_event":"White House Press Office: Full lid called at 6:00 PM"}
 {"timestamp":"2026-05-21T05:00:03.975Z","action":"lid_noted","lid_type":"full_night","eastern_hour":1,"source_event":"White House Press Office: Full lid called at 6:00 PM"}
 {"timestamp":"2026-05-21T05:00:03.975Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-21T06:00:05.765Z","action":"lid_cleared","eastern_hour":2}
+{"timestamp":"2026-05-21T06:00:05.766Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-21T07:00:03.623Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-21T08:00:05.707Z","action":"analysis_failed"}
+{"timestamp":"2026-05-21T09:00:02.308Z","action":"rollcall_fetch_error","error":"Roll Call returned HTTP 502"}
+{"timestamp":"2026-05-21T10:00:03.895Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-21T11:00:03.668Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-21T12:00:03.429Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-21T13:00:04.541Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-22T06:00:03.250Z","action":"today_not_in_schedule","eastern_now":"Friday, May 22 2026"}
+{"timestamp":"2026-05-22T06:00:04.840Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-22T07:00:01.946Z","action":"stale_warning_sent","age_hours":25}
+{"timestamp":"2026-05-22T07:00:03.148Z","action":"today_not_in_schedule","eastern_now":"Friday, May 22 2026"}
+{"timestamp":"2026-05-22T07:00:04.882Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-22T08:00:03.360Z","action":"today_not_in_schedule","eastern_now":"Friday, May 22 2026"}
+{"timestamp":"2026-05-22T08:00:05.675Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-22T09:00:03.050Z","action":"today_not_in_schedule","eastern_now":"Friday, May 22 2026"}
+{"timestamp":"2026-05-22T09:00:04.266Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-22T10:00:02.680Z","action":"today_not_in_schedule","eastern_now":"Friday, May 22 2026"}
+{"timestamp":"2026-05-22T10:00:03.972Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-22T11:00:02.349Z","action":"today_not_in_schedule","eastern_now":"Friday, May 22 2026"}
+{"timestamp":"2026-05-22T11:00:03.581Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-22T12:00:03.187Z","action":"today_not_in_schedule","eastern_now":"Friday, May 22 2026"}
+{"timestamp":"2026-05-22T12:00:04.248Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-22T13:00:02.671Z","action":"today_not_in_schedule","eastern_now":"Friday, May 22 2026"}
+{"timestamp":"2026-05-22T13:00:03.775Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-22T14:00:03.862Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-22T15:00:03.578Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-22T16:00:03.825Z","action":"no_change","location":"The White House"}
