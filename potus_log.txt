@@ -496,3 +496,4 @@
 {"timestamp":"2026-05-22T14:00:03.862Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-22T15:00:03.578Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-22T16:00:03.825Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-22T17:00:06.987Z","action":"location_change","previous":"The White House","new":"Suffern, New York","detected_location":"Suffern, New York","lid_type":"none","confidence":"high","source_event":"12:00 PM Out-of-Town Travel Pool Call Time at Joint Base Andrews (indicates travel in progress to Suffern for 3:00 PM remarks)"}
