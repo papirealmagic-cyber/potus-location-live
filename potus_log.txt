@@ -505,3 +505,14 @@
 {"timestamp":"2026-05-22T23:00:05.347Z","action":"location_change","previous":"Morristown Municipal Airport","new":"Joint Base Andrews","detected_location":"Joint Base Andrews","lid_type":"none","confidence":"high","source_event":"The President arrives at Joint Base Andrews (6:31 PM)"}
 {"timestamp":"2026-05-23T00:00:06.562Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"7:04 PM: The President arrives at the White House","eastern_hour":20}
 {"timestamp":"2026-05-23T01:00:04.742Z","action":"location_change","previous":"Joint Base Andrews","new":"The White House","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"7:15 PM: White House Press Office: Full lid called"}
+{"timestamp":"2026-05-23T02:00:05.433Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"7:15 PM White House Press Office: Full lid called","eastern_hour":22}
+{"timestamp":"2026-05-23T03:00:03.606Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T04:00:03.798Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":0,"source_event":"White House Press Office: Full lid called"}
+{"timestamp":"2026-05-23T04:00:03.798Z","action":"lid_noted","lid_type":"full_night","eastern_hour":0,"source_event":"White House Press Office: Full lid called"}
+{"timestamp":"2026-05-23T04:00:03.798Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T05:00:04.239Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":1,"source_event":"White House Press Office: Full lid called at 7:15 PM on May 22"}
+{"timestamp":"2026-05-23T05:00:04.239Z","action":"lid_noted","lid_type":"full_night","eastern_hour":1,"source_event":"White House Press Office: Full lid called at 7:15 PM on May 22"}
+{"timestamp":"2026-05-23T05:00:04.239Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T06:00:03.516Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":2,"source_event":"The President arrives at the White House (7:04 PM Friday) and White House Press Office: Full lid called (7:15 PM Friday)"}
+{"timestamp":"2026-05-23T06:00:03.516Z","action":"lid_noted","lid_type":"full_night","eastern_hour":2,"source_event":"The President arrives at the White House (7:04 PM Friday) and White House Press Office: Full lid called (7:15 PM Friday)"}
+{"timestamp":"2026-05-23T06:00:03.516Z","action":"no_change","location":"The White House"}
