@@ -543,3 +543,10 @@
 {"timestamp":"2026-05-23T18:00:03.857Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-23T19:00:08.761Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":15,"source_event":"The President delivers remarks at 3:00 PM"}
 {"timestamp":"2026-05-23T19:00:08.761Z","action":"lid_noted","lid_type":"full_night","eastern_hour":15,"source_event":"The President delivers remarks at 3:00 PM"}
+{"timestamp":"2026-05-23T19:00:10.192Z","action":"location_change","previous":"The White House","new":"Rockland Community College, Suffern, NY","detected_location":"Rockland Community College, Suffern, NY","lid_type":"full_night","confidence":"high","source_event":"The President delivers remarks at 3:00 PM"}
+{"timestamp":"2026-05-23T20:00:03.705Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":16,"source_event":"White House Press Office: Full lid called"}
+{"timestamp":"2026-05-23T20:00:03.705Z","action":"lid_noted","lid_type":"full_night","eastern_hour":16,"source_event":"White House Press Office: Full lid called"}
+{"timestamp":"2026-05-23T20:00:03.705Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T21:00:04.646Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":17,"source_event":"White House Press Office: Full lid called"}
+{"timestamp":"2026-05-23T21:00:04.646Z","action":"lid_noted","lid_type":"full_night","eastern_hour":17,"source_event":"White House Press Office: Full lid called"}
+{"timestamp":"2026-05-23T21:00:04.647Z","action":"no_change","location":"The White House"}
