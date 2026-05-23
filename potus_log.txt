@@ -516,3 +516,30 @@
 {"timestamp":"2026-05-23T06:00:03.516Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":2,"source_event":"The President arrives at the White House (7:04 PM Friday) and White House Press Office: Full lid called (7:15 PM Friday)"}
 {"timestamp":"2026-05-23T06:00:03.516Z","action":"lid_noted","lid_type":"full_night","eastern_hour":2,"source_event":"The President arrives at the White House (7:04 PM Friday) and White House Press Office: Full lid called (7:15 PM Friday)"}
 {"timestamp":"2026-05-23T06:00:03.516Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T07:00:05.793Z","action":"lid_cleared","eastern_hour":3}
+{"timestamp":"2026-05-23T07:00:05.793Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T08:00:03.713Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":4,"source_event":"White House Press Office: Full lid called"}
+{"timestamp":"2026-05-23T08:00:03.713Z","action":"lid_noted","lid_type":"full_night","eastern_hour":4,"source_event":"White House Press Office: Full lid called"}
+{"timestamp":"2026-05-23T08:00:03.713Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T09:00:04.073Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":5,"source_event":"White House Press Office: Full lid called"}
+{"timestamp":"2026-05-23T09:00:04.073Z","action":"lid_noted","lid_type":"full_night","eastern_hour":5,"source_event":"White House Press Office: Full lid called"}
+{"timestamp":"2026-05-23T09:00:04.073Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T10:00:03.417Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":6,"source_event":"The President arrives at the White House (7:04 PM Friday)"}
+{"timestamp":"2026-05-23T10:00:03.417Z","action":"lid_noted","lid_type":"full_night","eastern_hour":6,"source_event":"The President arrives at the White House (7:04 PM Friday)"}
+{"timestamp":"2026-05-23T10:00:03.418Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T11:00:04.615Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":7,"source_event":"The President arrives at the White House (7:04 PM Friday); Full lid called (7:15 PM Friday)"}
+{"timestamp":"2026-05-23T11:00:04.615Z","action":"lid_noted","lid_type":"full_night","eastern_hour":7,"source_event":"The President arrives at the White House (7:04 PM Friday); Full lid called (7:15 PM Friday)"}
+{"timestamp":"2026-05-23T11:00:04.616Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T12:00:04.854Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T13:00:04.171Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T14:00:03.922Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T15:00:03.887Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":11,"source_event":"The President arrives at the White House (7:04 PM Friday) + Full lid called (7:15 PM Friday)"}
+{"timestamp":"2026-05-23T15:00:03.887Z","action":"lid_noted","lid_type":"full_night","eastern_hour":11,"source_event":"The President arrives at the White House (7:04 PM Friday) + Full lid called (7:15 PM Friday)"}
+{"timestamp":"2026-05-23T15:00:03.887Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T16:00:03.376Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T17:00:04.743Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T18:00:03.856Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":14,"source_event":"White House Press Office: Full lid called"}
+{"timestamp":"2026-05-23T18:00:03.856Z","action":"lid_noted","lid_type":"full_night","eastern_hour":14,"source_event":"White House Press Office: Full lid called"}
+{"timestamp":"2026-05-23T18:00:03.857Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-23T19:00:08.761Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":15,"source_event":"The President delivers remarks at 3:00 PM"}
+{"timestamp":"2026-05-23T19:00:08.761Z","action":"lid_noted","lid_type":"full_night","eastern_hour":15,"source_event":"The President delivers remarks at 3:00 PM"}
