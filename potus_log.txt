@@ -602,3 +602,9 @@
 {"timestamp":"2026-05-25T15:00:04.163Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-25T16:00:06.134Z","action":"location_change","previous":"The White House","new":"Arlington National Cemetery","detected_location":"Arlington National Cemetery","lid_type":"none","confidence":"high","source_event":"The President participates in a Wreath Laying Ceremony and delivers Remarks at Arlington National Cemetery at 12:00 PM"}
 {"timestamp":"2026-05-25T17:00:03.654Z","action":"no_change","location":"Arlington National Cemetery"}
+{"timestamp":"2026-05-25T18:00:05.522Z","action":"location_change","previous":"Arlington National Cemetery","new":"The White House","detected_location":"The White House","lid_type":"none","confidence":"high","source_event":"The President arrives at the White House (1:37 PM)"}
+{"timestamp":"2026-05-25T19:00:03.311Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-25T20:00:08.347Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-25T21:00:04.513Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at the White House (1:37 PM); Full lid called (4:00 PM)"}
+{"timestamp":"2026-05-25T21:00:04.513Z","action":"lid_noted","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at the White House (1:37 PM); Full lid called (4:00 PM)"}
+{"timestamp":"2026-05-25T21:00:04.514Z","action":"no_change","location":"The White House"}
