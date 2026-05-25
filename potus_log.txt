@@ -600,3 +600,5 @@
 {"timestamp":"2026-05-25T13:00:06.131Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-25T14:00:03.490Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-25T15:00:04.163Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-25T16:00:06.134Z","action":"location_change","previous":"The White House","new":"Arlington National Cemetery","detected_location":"Arlington National Cemetery","lid_type":"none","confidence":"high","source_event":"The President participates in a Wreath Laying Ceremony and delivers Remarks at Arlington National Cemetery at 12:00 PM"}
+{"timestamp":"2026-05-25T17:00:03.654Z","action":"no_change","location":"Arlington National Cemetery"}
