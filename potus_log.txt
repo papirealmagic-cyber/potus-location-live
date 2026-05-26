@@ -608,3 +608,9 @@
 {"timestamp":"2026-05-25T21:00:04.513Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at the White House (1:37 PM); Full lid called (4:00 PM)"}
 {"timestamp":"2026-05-25T21:00:04.513Z","action":"lid_noted","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at the White House (1:37 PM); Full lid called (4:00 PM)"}
 {"timestamp":"2026-05-25T21:00:04.514Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-25T22:00:05.462Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"The President arrives at the White House (1:37 PM); Full lid called (4:00 PM)","eastern_hour":18}
+{"timestamp":"2026-05-25T23:00:04.625Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T00:00:04.267Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T01:00:03.855Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T02:00:03.165Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T03:00:03.837Z","action":"no_change","location":"The White House"}
