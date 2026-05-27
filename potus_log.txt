@@ -614,3 +614,25 @@
 {"timestamp":"2026-05-26T01:00:03.855Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-26T02:00:03.165Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-26T03:00:03.837Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T04:00:07.175Z","action":"lid_cleared","eastern_hour":0}
+{"timestamp":"2026-05-26T04:00:07.176Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T05:00:03.293Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T06:00:05.684Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T07:00:04.162Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T08:00:05.268Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T09:00:04.345Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T10:00:03.551Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T11:00:05.617Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T12:00:04.213Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T13:00:04.029Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T14:00:06.814Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T15:00:03.331Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T16:00:03.981Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T17:00:03.747Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T18:00:03.188Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T19:00:05.414Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T20:00:04.615Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T21:00:05.395Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T22:00:06.263Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-26T23:00:03.575Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-27T00:00:06.253Z","action":"no_change","location":"The White House"}
