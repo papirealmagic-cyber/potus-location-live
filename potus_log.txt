@@ -659,3 +659,8 @@
 {"timestamp":"2026-05-27T20:00:03.724Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-27T21:00:03.558Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-27T22:00:08.617Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-27T23:00:06.190Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"White House Press Office: Full lid called at 6:04 PM","eastern_hour":19}
+{"timestamp":"2026-05-28T00:00:03.150Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-28T01:00:03.706Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-28T02:00:03.039Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-28T03:00:03.129Z","action":"no_change","location":"The White House"}
