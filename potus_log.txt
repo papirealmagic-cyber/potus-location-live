@@ -684,3 +684,8 @@
 {"timestamp":"2026-05-28T20:00:04.577Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-28T21:00:06.430Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-28T22:00:03.861Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-28T23:00:07.923Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"The President participates in a Policy Meeting at Oval Office at 3:30 PM (most recent passed event); Full lid called at 6:00 PM","eastern_hour":19}
+{"timestamp":"2026-05-29T00:00:05.539Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-29T01:00:03.271Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-29T02:00:04.198Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-29T03:00:04.024Z","action":"no_change","location":"The White House"}
