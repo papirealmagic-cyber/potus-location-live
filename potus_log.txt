@@ -725,3 +725,11 @@
 {"timestamp":"2026-05-30T12:00:03.850Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-30T13:00:03.188Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-30T14:00:03.320Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-30T16:00:05.375Z","action":"location_change","previous":"The White House","new":"Trump National Golf Club Washington DC","detected_location":"Trump National Golf Club Washington DC","lid_type":"none","confidence":"high","source_event":"The President departs The White House en route to Trump National Golf Club Washington DC"}
+{"timestamp":"2026-05-30T17:00:03.379Z","action":"no_change","location":"Trump National Golf Club Washington DC"}
+{"timestamp":"2026-05-30T18:00:03.627Z","action":"no_change","location":"Trump National Golf Club Washington DC"}
+{"timestamp":"2026-05-30T19:00:03.929Z","action":"no_change","location":"Trump National Golf Club Washington DC"}
+{"timestamp":"2026-05-30T20:00:04.684Z","action":"no_change","location":"Trump National Golf Club Washington DC"}
+{"timestamp":"2026-05-30T21:00:03.767Z","action":"no_change","location":"Trump National Golf Club Washington DC"}
+{"timestamp":"2026-05-30T22:00:03.660Z","action":"no_change","location":"Trump National Golf Club Washington DC"}
+{"timestamp":"2026-05-30T23:00:03.353Z","action":"no_change","location":"Trump National Golf Club Washington DC"}
