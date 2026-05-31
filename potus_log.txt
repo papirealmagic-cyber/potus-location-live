@@ -751,3 +751,9 @@
 {"timestamp":"2026-05-31T14:00:11.296Z","action":"rollcall_fetch_error","error":"getaddrinfo EAI_AGAIN rollcall.com"}
 {"timestamp":"2026-05-31T15:00:04.639Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-05-31T16:00:04.107Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-31T17:00:04.966Z","action":"location_change","previous":"The White House","new":"Trump National Golf Club Washington DC","detected_location":"Trump National Golf Club Washington DC","lid_type":"none","confidence":"high","source_event":"The President arrives at Trump National Golf Club Washington DC (10:00 AM)"}
+{"timestamp":"2026-05-31T18:00:21.061Z","action":"no_change","location":"Trump National Golf Club Washington DC"}
+{"timestamp":"2026-05-31T19:00:06.344Z","action":"no_change","location":"Trump National Golf Club Washington DC"}
+{"timestamp":"2026-05-31T20:00:03.714Z","action":"no_change","location":"Trump National Golf Club Washington DC"}
+{"timestamp":"2026-05-31T21:00:04.694Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at The White House at 4:21 PM; Full lid called at 4:23 PM"}
+{"timestamp":"2026-05-31T21:00:04.694Z","action":"lid_noted","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at The White House at 4:21 PM; Full lid called at 4:23 PM"}
