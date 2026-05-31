@@ -737,3 +737,17 @@
 {"timestamp":"2026-05-31T01:00:04.904Z","action":"location_change","previous":"Trump National Golf Club Washington DC","new":"The White House","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"The President arrives at The White House at 5:44 PM; Full lid called at 5:46 PM"}
 {"timestamp":"2026-05-31T02:00:04.838Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"The President arrives at The White House at 5:44 PM; Full lid called at 5:46 PM","eastern_hour":22}
 {"timestamp":"2026-05-31T03:00:03.228Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-31T04:00:06.345Z","action":"lid_cleared","eastern_hour":0}
+{"timestamp":"2026-05-31T04:00:06.346Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-31T05:00:05.185Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-31T06:00:04.143Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-31T07:00:09.582Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-31T08:00:04.337Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-31T09:00:03.560Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-31T10:00:04.889Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-31T11:00:37.514Z","action":"rollcall_fetch_error","error":"timeout"}
+{"timestamp":"2026-05-31T12:00:44.626Z","action":"rollcall_fetch_error","error":"timeout"}
+{"timestamp":"2026-05-31T13:00:11.734Z","action":"rollcall_fetch_error","error":"getaddrinfo EAI_AGAIN rollcall.com"}
+{"timestamp":"2026-05-31T14:00:11.296Z","action":"rollcall_fetch_error","error":"getaddrinfo EAI_AGAIN rollcall.com"}
+{"timestamp":"2026-05-31T15:00:04.639Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-05-31T16:00:04.107Z","action":"no_change","location":"The White House"}
