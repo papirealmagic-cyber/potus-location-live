@@ -734,3 +734,4 @@
 {"timestamp":"2026-05-30T22:00:03.660Z","action":"no_change","location":"Trump National Golf Club Washington DC"}
 {"timestamp":"2026-05-30T23:00:03.353Z","action":"no_change","location":"Trump National Golf Club Washington DC"}
 {"timestamp":"2026-05-31T00:00:06.020Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"The President arrives at The White House at 5:44 PM, followed by White House Press Office: Full lid called at 5:46 PM","eastern_hour":20}
+{"timestamp":"2026-05-31T01:00:04.904Z","action":"location_change","previous":"Trump National Golf Club Washington DC","new":"The White House","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"The President arrives at The White House at 5:44 PM; Full lid called at 5:46 PM"}
