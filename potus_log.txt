@@ -838,3 +838,23 @@
 {"timestamp":"2026-06-04T01:00:05.689Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"The President participates in a Rose Garden Club Dinner at 7:00 PM; Full lid called at 8:00 PM","eastern_hour":21}
 {"timestamp":"2026-06-04T02:00:04.209Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-06-04T03:00:03.467Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T04:00:05.082Z","action":"lid_cleared","eastern_hour":0}
+{"timestamp":"2026-06-04T04:00:05.082Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T05:00:03.532Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T06:00:04.039Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T07:00:02.905Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T08:00:04.177Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T09:00:03.972Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T10:00:04.419Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T11:00:03.227Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T12:00:04.381Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T13:00:04.752Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T14:00:03.842Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T15:00:03.595Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T16:00:03.630Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T17:00:04.022Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T18:00:02.932Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T19:00:04.709Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T20:00:03.922Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T21:00:04.165Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T22:00:03.201Z","action":"no_change","location":"The White House"}
