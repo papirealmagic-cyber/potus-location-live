@@ -835,3 +835,6 @@
 {"timestamp":"2026-06-03T22:00:03.115Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-06-03T23:00:04.413Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-06-04T00:00:03.786Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T01:00:05.689Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"The President participates in a Rose Garden Club Dinner at 7:00 PM; Full lid called at 8:00 PM","eastern_hour":21}
+{"timestamp":"2026-06-04T02:00:04.209Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T03:00:03.467Z","action":"no_change","location":"The White House"}
