@@ -886,3 +886,4 @@
 {"timestamp":"2026-06-05T19:00:04.643Z","action":"no_change","location":"Chippewa Falls, Wisconsin"}
 {"timestamp":"2026-06-05T20:00:06.664Z","action":"location_change","previous":"Chippewa Falls, Wisconsin","new":"Custer Farm, Chippewa Falls, WI","detected_location":"Custer Farm, Chippewa Falls, WI","lid_type":"none","confidence":"high","source_event":"The President participates in a Roundtable on American Agriculture [3:00 PM Local]"}
 {"timestamp":"2026-06-05T21:00:03.623Z","action":"no_change","location":"Custer Farm, Chippewa Falls, WI"}
+{"timestamp":"2026-06-05T22:00:16.409Z","action":"location_change","previous":"Custer Farm, Chippewa Falls, WI","new":"Bedminster, New Jersey","detected_location":"Bedminster, New Jersey","lid_type":"none","confidence":"medium","source_event":"The President departs Chippewa Falls, Wisconsin en route Bedminster, New Jersey"}
