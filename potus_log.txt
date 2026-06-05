@@ -858,3 +858,9 @@
 {"timestamp":"2026-06-04T20:00:03.922Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-06-04T21:00:04.165Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-06-04T22:00:03.201Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-04T23:00:04.877Z","action":"lid_set","detected_location":"The White House","lid_type":"full_night","confidence":"high","source_event":"The President participates in a Policy Meeting at 5:30 PM Oval Office","eastern_hour":19}
+{"timestamp":"2026-06-05T00:00:04.004Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-05T01:00:03.407Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-05T02:00:04.082Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-05T03:00:02.952Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-05T04:00:02.278Z","action":"today_not_in_schedule","eastern_now":"Friday, June 5 2026"}
