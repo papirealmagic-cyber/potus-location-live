@@ -864,3 +864,12 @@
 {"timestamp":"2026-06-05T02:00:04.082Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-06-05T03:00:02.952Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-06-05T04:00:02.278Z","action":"today_not_in_schedule","eastern_now":"Friday, June 5 2026"}
+{"timestamp":"2026-06-05T04:00:05.624Z","action":"lid_cleared","eastern_hour":0}
+{"timestamp":"2026-06-05T04:00:05.625Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-05T05:00:02.761Z","action":"today_not_in_schedule","eastern_now":"Friday, June 5 2026"}
+{"timestamp":"2026-06-05T05:00:03.607Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-05T06:00:02.377Z","action":"today_not_in_schedule","eastern_now":"Friday, June 5 2026"}
+{"timestamp":"2026-06-05T06:00:03.353Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-05T07:00:02.502Z","action":"today_not_in_schedule","eastern_now":"Friday, June 5 2026"}
+{"timestamp":"2026-06-05T07:00:03.710Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-05T08:00:03.015Z","action":"no_change","location":"The White House"}
