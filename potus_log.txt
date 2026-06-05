@@ -884,3 +884,5 @@
 {"timestamp":"2026-06-05T17:00:03.497Z","action":"foreign_lock_held","kept":"Chippewa Falls, Wisconsin","rejected_new":"Joint Base Andrews","source_event":"The President departs The White House en route to Joint Base Andrews at 12:43 PM"}
 {"timestamp":"2026-06-05T18:00:03.664Z","action":"no_change","location":"Chippewa Falls, Wisconsin"}
 {"timestamp":"2026-06-05T19:00:04.643Z","action":"no_change","location":"Chippewa Falls, Wisconsin"}
+{"timestamp":"2026-06-05T20:00:06.664Z","action":"location_change","previous":"Chippewa Falls, Wisconsin","new":"Custer Farm, Chippewa Falls, WI","detected_location":"Custer Farm, Chippewa Falls, WI","lid_type":"none","confidence":"high","source_event":"The President participates in a Roundtable on American Agriculture [3:00 PM Local]"}
+{"timestamp":"2026-06-05T21:00:03.623Z","action":"no_change","location":"Custer Farm, Chippewa Falls, WI"}
