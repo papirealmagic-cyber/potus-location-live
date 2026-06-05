@@ -873,3 +873,14 @@
 {"timestamp":"2026-06-05T07:00:02.502Z","action":"today_not_in_schedule","eastern_now":"Friday, June 5 2026"}
 {"timestamp":"2026-06-05T07:00:03.710Z","action":"no_change","location":"The White House"}
 {"timestamp":"2026-06-05T08:00:03.015Z","action":"no_change","location":"The White House"}
+{"timestamp":"2026-06-05T09:00:05.968Z","action":"location_change","previous":"The White House","new":"Chippewa Falls, Wisconsin","detected_location":"Chippewa Falls, Wisconsin","lid_type":"none","confidence":"high","source_event":"The President departs The White House en route Chippewa Falls, Wisconsin (TBD, positioned for morning travel)"}
+{"timestamp":"2026-06-05T10:00:03.694Z","action":"foreign_lock_held","kept":"Chippewa Falls, Wisconsin","rejected_new":"The White House","source_event":"8:00 AM The President participates in Executive Time"}
+{"timestamp":"2026-06-05T11:00:04.989Z","action":"no_change","location":"Chippewa Falls, Wisconsin"}
+{"timestamp":"2026-06-05T12:00:03.425Z","action":"foreign_lock_held","kept":"Chippewa Falls, Wisconsin","rejected_new":"The White House","source_event":"8:00 AM The President participates in Executive Time"}
+{"timestamp":"2026-06-05T13:00:03.647Z","action":"foreign_lock_held","kept":"Chippewa Falls, Wisconsin","rejected_new":"The White House","source_event":"9:00 AM In-Town Pool Call Time at The White House"}
+{"timestamp":"2026-06-05T14:00:03.948Z","action":"no_change","location":"Chippewa Falls, Wisconsin"}
+{"timestamp":"2026-06-05T15:00:04.260Z","action":"foreign_lock_held","kept":"Chippewa Falls, Wisconsin","rejected_new":"The White House","source_event":"The President participates in a Policy Meeting at 11:00 AM"}
+{"timestamp":"2026-06-05T16:00:03.168Z","action":"no_change","location":"Chippewa Falls, Wisconsin"}
+{"timestamp":"2026-06-05T17:00:03.497Z","action":"foreign_lock_held","kept":"Chippewa Falls, Wisconsin","rejected_new":"Joint Base Andrews","source_event":"The President departs The White House en route to Joint Base Andrews at 12:43 PM"}
+{"timestamp":"2026-06-05T18:00:03.664Z","action":"no_change","location":"Chippewa Falls, Wisconsin"}
+{"timestamp":"2026-06-05T19:00:04.643Z","action":"no_change","location":"Chippewa Falls, Wisconsin"}
