@@ -891,3 +891,58 @@
 {"timestamp":"2026-06-06T00:00:06.214Z","action":"location_change","previous":"Chippewa Valley Regional Airport, Eau Claire, WI","new":"Morristown Municipal Airport, New Jersey","detected_location":"Morristown Municipal Airport, New Jersey","lid_type":"none","confidence":"high","source_event":"The President departs Chippewa Valley Regional Airport, Eau Claire, WI for Morristown Municipal Airport [5:39 PM Local]"}
 {"timestamp":"2026-06-06T01:00:04.803Z","action":"location_change","previous":"Morristown Municipal Airport, New Jersey","new":"Morristown Municipal Airport","detected_location":"Morristown Municipal Airport","lid_type":"none","confidence":"high","source_event":"The President arrives at Morristown Municipal Airport [8:31 PM]"}
 {"timestamp":"2026-06-06T02:00:05.176Z","action":"lid_set","detected_location":"Trump National Golf Club Bedminster","lid_type":"full_night","confidence":"high","source_event":"The President arrives at Trump National Golf Club Bedminster [9:00 PM]","eastern_hour":22}
+{"timestamp":"2026-06-06T03:00:04.490Z","action":"location_change","previous":"Morristown Municipal Airport","new":"Bedminster, New Jersey","detected_location":"Trump National Golf Club Bedminster","lid_type":"full_night","confidence":"high","source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T04:00:02.970Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":0,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T04:00:02.970Z","action":"lid_noted","lid_type":"full_night","eastern_hour":0,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T04:00:02.970Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T05:00:04.130Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":1,"source_event":"The President arrives at Trump National Golf Club Bedminster (9:00 PM Friday, June 5) + White House Press Office: Full lid called (8:48 PM Friday)"}
+{"timestamp":"2026-06-06T05:00:04.130Z","action":"lid_noted","lid_type":"full_night","eastern_hour":1,"source_event":"The President arrives at Trump National Golf Club Bedminster (9:00 PM Friday, June 5) + White House Press Office: Full lid called (8:48 PM Friday)"}
+{"timestamp":"2026-06-06T05:00:04.131Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T06:00:02.957Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":2,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T06:00:02.957Z","action":"lid_noted","lid_type":"full_night","eastern_hour":2,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T06:00:02.958Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T07:00:03.280Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":3,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T07:00:03.280Z","action":"lid_noted","lid_type":"full_night","eastern_hour":3,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T07:00:03.280Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T08:00:06.407Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":4,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T08:00:06.407Z","action":"lid_noted","lid_type":"full_night","eastern_hour":4,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T08:00:06.408Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T09:00:03.192Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":5,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T09:00:03.192Z","action":"lid_noted","lid_type":"full_night","eastern_hour":5,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T09:00:03.192Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T10:00:03.284Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":6,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T10:00:03.284Z","action":"lid_noted","lid_type":"full_night","eastern_hour":6,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T10:00:03.284Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T11:00:05.663Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":7,"source_event":"The President arrives at Trump National Golf Club Bedminster (9:00 PM Friday) and White House Press Office: Full lid called (8:48 PM Friday)"}
+{"timestamp":"2026-06-06T11:00:05.663Z","action":"lid_noted","lid_type":"full_night","eastern_hour":7,"source_event":"The President arrives at Trump National Golf Club Bedminster (9:00 PM Friday) and White House Press Office: Full lid called (8:48 PM Friday)"}
+{"timestamp":"2026-06-06T11:00:05.664Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T12:00:03.640Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":8,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster at 8:00 AM"}
+{"timestamp":"2026-06-06T12:00:03.640Z","action":"lid_noted","lid_type":"full_night","eastern_hour":8,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster at 8:00 AM"}
+{"timestamp":"2026-06-06T12:00:03.640Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T13:00:03.420Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":9,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster at 8:00 AM"}
+{"timestamp":"2026-06-06T13:00:03.420Z","action":"lid_noted","lid_type":"full_night","eastern_hour":9,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster at 8:00 AM"}
+{"timestamp":"2026-06-06T13:00:03.421Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T14:00:04.707Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":10,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster at 8:00 AM ET (most recent passed event on Saturday, June 6)"}
+{"timestamp":"2026-06-06T14:00:04.707Z","action":"lid_noted","lid_type":"full_night","eastern_hour":10,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster at 8:00 AM ET (most recent passed event on Saturday, June 6)"}
+{"timestamp":"2026-06-06T14:00:04.707Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T15:00:04.098Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":11,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster at 8:00 AM"}
+{"timestamp":"2026-06-06T15:00:04.098Z","action":"lid_noted","lid_type":"full_night","eastern_hour":11,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster at 8:00 AM"}
+{"timestamp":"2026-06-06T15:00:04.098Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T16:00:03.251Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":12,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster at 8:00 AM"}
+{"timestamp":"2026-06-06T16:00:03.251Z","action":"lid_noted","lid_type":"full_night","eastern_hour":12,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster at 8:00 AM"}
+{"timestamp":"2026-06-06T16:00:03.251Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T17:00:04.121Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":13,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster at 8:00 AM"}
+{"timestamp":"2026-06-06T17:00:04.121Z","action":"lid_noted","lid_type":"full_night","eastern_hour":13,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster at 8:00 AM"}
+{"timestamp":"2026-06-06T17:00:04.122Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T18:00:03.620Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":14,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster (8:00 AM, most recent passed event on Saturday June 6)"}
+{"timestamp":"2026-06-06T18:00:03.620Z","action":"lid_noted","lid_type":"full_night","eastern_hour":14,"source_event":"The President participates in Executive Time at Trump National Golf Club Bedminster (8:00 AM, most recent passed event on Saturday June 6)"}
+{"timestamp":"2026-06-06T18:00:03.621Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T19:00:05.298Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":15,"source_event":"The President arrives at Trump National Golf Club Bedminster (9:00 PM Friday event, most recent passed event on today's schedule); White House Press Office: Full lid called at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T19:00:05.298Z","action":"lid_noted","lid_type":"full_night","eastern_hour":15,"source_event":"The President arrives at Trump National Golf Club Bedminster (9:00 PM Friday event, most recent passed event on today's schedule); White House Press Office: Full lid called at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T19:00:05.298Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T20:00:04.179Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":16,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T20:00:04.179Z","action":"lid_noted","lid_type":"full_night","eastern_hour":16,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T20:00:04.179Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-06T21:00:03.715Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T21:00:03.715Z","action":"lid_noted","lid_type":"full_night","eastern_hour":17,"source_event":"The President arrives at Trump National Golf Club Bedminster"}
+{"timestamp":"2026-06-06T21:00:03.715Z","action":"no_change","location":"Bedminster, New Jersey"}
