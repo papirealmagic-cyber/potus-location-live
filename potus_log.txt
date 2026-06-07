@@ -952,3 +952,32 @@
 {"timestamp":"2026-06-07T01:00:03.558Z","action":"no_change","location":"Bedminster, New Jersey"}
 {"timestamp":"2026-06-07T02:00:03.747Z","action":"no_change","location":"Bedminster, New Jersey"}
 {"timestamp":"2026-06-07T03:00:03.854Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T04:00:08.190Z","action":"lid_cleared","eastern_hour":0}
+{"timestamp":"2026-06-07T04:00:08.190Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T05:00:04.729Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T06:00:03.151Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T07:00:05.907Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T08:00:02.865Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T09:00:03.884Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T10:00:03.463Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T11:00:03.368Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T12:00:03.199Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T13:00:04.265Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T14:00:03.635Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T15:00:03.710Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T16:00:04.906Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T17:00:03.912Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":13,"source_event":"White House Press Office: Full lid called at 11:00 AM on Sunday, June 7 2026"}
+{"timestamp":"2026-06-07T17:00:03.912Z","action":"lid_noted","lid_type":"full_night","eastern_hour":13,"source_event":"White House Press Office: Full lid called at 11:00 AM on Sunday, June 7 2026"}
+{"timestamp":"2026-06-07T17:00:03.912Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T18:00:04.641Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":14,"source_event":"White House Press Office: Full lid called at 11:00 AM on June 7 2026"}
+{"timestamp":"2026-06-07T18:00:04.641Z","action":"lid_noted","lid_type":"full_night","eastern_hour":14,"source_event":"White House Press Office: Full lid called at 11:00 AM on June 7 2026"}
+{"timestamp":"2026-06-07T18:00:04.641Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T19:00:04.134Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":15,"source_event":"White House Press Office: Full lid called at 11:00 AM on June 7 2026"}
+{"timestamp":"2026-06-07T19:00:04.134Z","action":"lid_noted","lid_type":"full_night","eastern_hour":15,"source_event":"White House Press Office: Full lid called at 11:00 AM on June 7 2026"}
+{"timestamp":"2026-06-07T19:00:04.134Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T20:00:05.235Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":16,"source_event":"White House Press Office: Full lid called at 11:00 AM on Sunday, June 7 2026"}
+{"timestamp":"2026-06-07T20:00:05.235Z","action":"lid_noted","lid_type":"full_night","eastern_hour":16,"source_event":"White House Press Office: Full lid called at 11:00 AM on Sunday, June 7 2026"}
+{"timestamp":"2026-06-07T20:00:05.235Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T21:00:05.138Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":17,"source_event":"White House Press Office: Full lid called at 11:00 AM"}
+{"timestamp":"2026-06-07T21:00:05.138Z","action":"lid_noted","lid_type":"full_night","eastern_hour":17,"source_event":"White House Press Office: Full lid called at 11:00 AM"}
+{"timestamp":"2026-06-07T21:00:05.138Z","action":"no_change","location":"Bedminster, New Jersey"}
