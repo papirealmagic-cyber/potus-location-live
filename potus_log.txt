@@ -1002,3 +1002,4 @@
 {"timestamp":"2026-06-08T15:00:03.704Z","action":"no_change","location":"Bedminster, New Jersey"}
 {"timestamp":"2026-06-08T16:00:03.946Z","action":"no_change","location":"Bedminster, New Jersey"}
 {"timestamp":"2026-06-08T17:00:05.478Z","action":"location_change","previous":"Bedminster, New Jersey","new":"New York, New York","detected_location":"New York, New York","lid_type":"none","confidence":"high","source_event":"The President departs Bedminster, New Jersey en route New York, New York"}
+{"timestamp":"2026-06-08T18:00:07.670Z","action":"location_change","previous":"New York, New York","new":"en route to New York, New York","detected_location":"en route to New York, New York","lid_type":"none","confidence":"medium","source_event":"TBD: The President departs Bedminster, New Jersey en route New York, New York"}
