@@ -981,3 +981,9 @@
 {"timestamp":"2026-06-07T21:00:05.138Z","action":"night_lid_too_early","lid_type":"full_night","eastern_hour":17,"source_event":"White House Press Office: Full lid called at 11:00 AM"}
 {"timestamp":"2026-06-07T21:00:05.138Z","action":"lid_noted","lid_type":"full_night","eastern_hour":17,"source_event":"White House Press Office: Full lid called at 11:00 AM"}
 {"timestamp":"2026-06-07T21:00:05.138Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-07T22:00:04.784Z","action":"lid_set","detected_location":"Trump National Golf Club Bedminster","lid_type":"full_night","confidence":"high","source_event":"White House Press Office: Full lid called at 11:00 AM","eastern_hour":18}
+{"timestamp":"2026-06-07T23:00:03.628Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-08T00:00:03.690Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-08T01:00:04.274Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-08T02:00:04.313Z","action":"no_change","location":"Bedminster, New Jersey"}
+{"timestamp":"2026-06-08T03:00:04.711Z","action":"no_change","location":"Bedminster, New Jersey"}
